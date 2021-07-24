@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Roynh
-- 👀 I’m interested in python
-- 🌱 I’m currently learning data engineering
+- 👋 Hi, I’m Raihan Naufal aka roy
+- 👀 I’m interested in data engineering
+- 🌱 I’m currently learning python and java
 - 📫 How to reach me https://www.facebook.com/raihan.nfl/
 
 <!---
